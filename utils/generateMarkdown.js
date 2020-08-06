@@ -23,7 +23,7 @@ ${data.usage}
 ${data.contribution}
 
 ## Questions
-This project was developed by: [${data.githubName}(https://github.com/${githubName})<br />
+This project was developed by: [${data.githubName}(https://github.com/${data.githubName})<br />
 With any questions, please reach out to ${data.email}
 `;
 }
