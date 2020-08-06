@@ -24,7 +24,7 @@ ${data.contribution}
 
 ## Questions
 This project was developed by: [${data.githubName}(https://github.com/${data.githubName})<br />
-With any questions, please reach out to ${data.email}
+With any questions, please reach out to me at ${data.email}
 `;
 }
 
