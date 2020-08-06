@@ -88,8 +88,8 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Please choose a license for your project',
-        choices: ['MIT', 'Mozilla', 'Apache', 'Boost', 'ISC', 'Open Database', 'Eclipse', 'Public Domain', 'IBM', 'Other',
-        default: 'None'
+        choices: ['MIT', 'Mozilla', 'Apache', 'Boost', 'ISC', 'Open Database', 'Eclipse', 'Public Domain', 'IBM', 'Other',]
+        
     },
     {
         type: 'input',
